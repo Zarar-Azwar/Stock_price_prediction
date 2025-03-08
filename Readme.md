@@ -99,7 +99,9 @@ The following are sample results of our AI stock prediction models and recommend
   <img src="assets/mt.jpg" width="32%" />
   <img src="assets/lt.jpg" width="32%" />
 </p>
+
 ### Sector Analysis
+
 ![Sector Analysis](assets/sectors.png)
 
 ## Contribution
